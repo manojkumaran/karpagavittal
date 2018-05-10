@@ -1,5 +1,9 @@
 body{
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Metrophobic', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Merienda One', cursive;
 }
 .my-container{max-width:800px}.footer{margin-bottom:40px}
 
@@ -16,10 +20,42 @@ h1{
 }
 
 .page-header h1{
-    color: #e24b22
+    color: #FFF;
+    font-size: 18px;
+    padding: 10px;
+    background: #eb4971;
+    background: -moz-linear-gradient(left, #eb4971 0%, #fc9c0c 100%);
+    background: -webkit-linear-gradient(left, #eb4971 0%, #fc9c0c 100%);
+    background: linear-gradient(to right, #eb4971 0%, #fc9c0c 100%);
+    margin: 20px 0 0 0;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
 }
 
 p.desc{
-    font-size: 13px;
     text-align: justify;
+}
+
+.nav {
+    background: rgb(179, 108, 219);
+    background: -moz-linear-gradient(-45deg, rgba(179, 108, 219, 1) 0%, rgba(0, 172, 224, 1) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(179, 108, 219, 1) 0%, rgba(0, 172, 224, 1) 100%);
+    background: linear-gradient(135deg, rgba(179, 108, 219, 1) 0%, rgba(0, 172, 224, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b36cdb', endColorstr='#00ace0', GradientType=1); 
+}
+
+.nav-link {
+    color: #ffffff;
+    
+}
+.nav-link {
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: .5rem 2.2rem;
+}
+
+.nav-link:hover{
+    color: #ffffff;
+    background: #ec1e2c;
 }
