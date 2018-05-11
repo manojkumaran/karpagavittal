@@ -43,6 +43,7 @@ p.desc{
     background: -webkit-linear-gradient(-45deg, rgba(179, 108, 219, 1) 0%, rgba(0, 172, 224, 1) 100%);
     background: linear-gradient(135deg, rgba(179, 108, 219, 1) 0%, rgba(0, 172, 224, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b36cdb', endColorstr='#00ace0', GradientType=1); 
+    margin-bottom: 20px;
 }
 
 .nav-link {
@@ -51,11 +52,32 @@ p.desc{
 }
 .nav-link {
     font-size: 15px;
-    text-transform: uppercase;
     padding: .5rem 2.2rem;
 }
 
 .nav-link:hover{
     color: #ffffff;
     background: #ec1e2c;
+}
+
+h2 {
+    text-align: center;
+    border-top: 5px dotted #EDEDED;
+    padding: 15px 0 0 0 ;
+    color: #6b69b5;
+}
+
+p {
+    text-align: justify;
+}
+
+h4.contrib{
+    color: #ff6305;
+    padding: 10px 0;
+    display: block;
+    border-bottom: 1px solid #EDEDED;
+}
+
+.center{
+    text-align: center;
 }
