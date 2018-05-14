@@ -1,5 +1,7 @@
 body{
     font-family: 'Metrophobic', sans-serif;
+    color: #333333;
+    background-image: url("../images/bk.png");
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -27,7 +29,7 @@ h1{
     background: -moz-linear-gradient(left, #eb4971 0%, #fc9c0c 100%);
     background: -webkit-linear-gradient(left, #eb4971 0%, #fc9c0c 100%);
     background: linear-gradient(to right, #eb4971 0%, #fc9c0c 100%);
-    margin: 20px 0 0 0;
+    margin: 0 0 20px 0;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -37,13 +39,12 @@ p.desc{
     text-align: justify;
 }
 
-.nav {
+.nav-wrap {
     background: rgb(179, 108, 219);
     background: -moz-linear-gradient(-45deg, rgba(179, 108, 219, 1) 0%, rgba(0, 172, 224, 1) 100%);
     background: -webkit-linear-gradient(-45deg, rgba(179, 108, 219, 1) 0%, rgba(0, 172, 224, 1) 100%);
     background: linear-gradient(135deg, rgba(179, 108, 219, 1) 0%, rgba(0, 172, 224, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b36cdb', endColorstr='#00ace0', GradientType=1); 
-    margin-bottom: 20px;
 }
 
 .nav-link {
@@ -63,8 +64,8 @@ p.desc{
 h2 {
     text-align: center;
     border-top: 5px dotted #EDEDED;
-    padding: 15px 0 0 0 ;
-    color: #6b69b5;
+    padding: 15px 0 ;
+    color: #E91E63;
 }
 
 p {
@@ -81,3 +82,101 @@ h4.contrib{
 .center{
     text-align: center;
 }
+
+.pre-footer{
+    background: url("../images/wall.png");
+    height:100px;
+}
+
+.parallax {
+    background-image: url('../images/hero.jpg');
+    height: 300px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.scrollTop{
+    background-image: url(../images/top.png);
+    width: 10%;
+    height: 67px;
+    background-repeat: no-repeat;
+    position: fixed;
+    bottom: 30px;
+    right: 0;
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+.footer p {
+    font-size: 13px;
+    color: #b5b5b5;
+    margin: 30px 0;
+}
+
+h6{
+    line-height: 1.6em;
+}
+
+::-moz-selection { /* Code for Firefox */
+    color: #fff;
+    background: #ff3d00;
+}
+
+::selection {
+    color: #fff;
+    background: #ff3d00;
+}
+
+.card-img-top {
+    max-height: 200px;
+}
+
+.contact {
+    font-size: 13px;
+}
+
+/*ticker*/
+/* liScroll styles */
+
+.tickercontainer { /* the outer div with the black border */
+    border: 1px solid #e6e6e6;
+    background: #fff; 
+    height: 27px; 
+    margin: 0; 
+    padding: 0;
+    overflow: hidden; 
+    }
+    .tickercontainer .mask { /* that serves as a mask. so you get a sort of padding both left and right */
+    position: relative;
+    left: 10px;
+    top: 8px;
+    width: 718px;
+    overflow: hidden;
+    }
+    ul.newsticker { /* that's your list */
+    position: relative;
+    left: 750px;
+    font: bold 10px Verdana;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    }
+    ul.newsticker li {
+    float: left; /* important: display inline gives incorrect results when you check for elem's width */
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    }
+    ul.newsticker a {
+    white-space: nowrap;
+    padding: 0;
+    color: #ff0000;
+    font: bold 10px Verdana;
+    margin: 0 50px 0 0;
+    } 
+    ul.newsticker span {
+    margin: 0 10px 0 0;
+    } 

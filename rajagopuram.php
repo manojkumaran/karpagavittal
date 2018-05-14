@@ -1,25 +1,32 @@
 <section id="rajagopuram">
             <h2>Raja Gopuram</h2>
-            <p>
-                Construction of a new Rajagopuram for the temple, has been the long desire of the devotees of this temple. Hence it has been decided to construct a beautiful
-and imposing Rajagopuram, with inspiring statues of the God's various forms. So our endeavour would be :
-            <ol>
-                    <li>to raise a befitting Rajagopuram</li>
-                    <li>to raise the walls on all sides of the temple</li>
-                    <li>to change the flooring with proper tiles</li>
-                    <li> to conduct the Kumbabishekam</li>
-            </ol>
-            </p>
-
-            <p>
-            Both the Mahasannidhanams of Sringeri Saradha Peetam, both the Acharyas of
-            Kanchi Kamakoti Peetam, Sri Sri Omkarananda Swamigal of Bhuvaneswari Peetam and
-            Sri Thukaram Ganapathy Maharaj, have showered their holy blessings for the successful
-            completion of this great task. Further we believe with the divine power of the presiding deities of
-            the temple, added with the dedicated cooperation of the devotees, that we will complete the task
-            fully, remarkably, and in time.
-            </p>
-
+           
+           <article class="row">
+            <div class="col-sm-4">
+                  <img src="images/gopuram.png" alt="Rajagopuram"  width="200px"/>
+            </div>      
+            <div class="col-sm-8">
+                        <p>
+                            Construction of a new Rajagopuram for the temple, has been the long desire of the devotees of this temple. Hence it has been decided to construct a beautiful
+            and imposing Rajagopuram, with inspiring statues of the God's various forms. So our endeavour would be :
+                        <ol>
+                                <li>to raise a befitting Rajagopuram</li>
+                                <li>to raise the walls on all sides of the temple</li>
+                                <li>to change the flooring with proper tiles</li>
+                                <li> to conduct the Kumbabishekam</li>
+                        </ol>
+                        </p>
+          </div>
+</article>
+<p>
+                        Both the Mahasannidhanams of Sringeri Saradha Peetam, both the Acharyas of
+                        Kanchi Kamakoti Peetam, Sri Sri Omkarananda Swamigal of Bhuvaneswari Peetam and
+                        Sri Thukaram Ganapathy Maharaj, have showered their holy blessings for the successful
+                        completion of this great task. Further we believe with the divine power of the presiding deities of
+                        the temple, added with the dedicated cooperation of the devotees, that we will complete the task
+                        fully, remarkably, and in time.
+                        </p>
+                        
             <h4>Devotees Contributions</h4>
             <p>
             Above total holy task involves huge expenditure, needing several lakhs of Rupees. Only

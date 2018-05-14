@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>adambakkam sri karpaga vinayagar sri pandurangan baktha samajam</title>
+    <title>Adambakkam Sri Karpaga Vinayagar Sri Pandurangan Baktha Samajam</title>
     <link href="https://fonts.googleapis.com/css?family=Metrophobic" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Merienda+One" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
@@ -20,12 +20,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
-  
+    <script src="js/scripts.js"></script>
 </head>
 <body>
 
+<section class="nav-wrap">
 <div class="container my-container">
-
     <ul class="nav">
         <li class="nav-item">
           <a class="nav-link active" href="#about">About</a>
@@ -40,6 +40,11 @@
             <a class="nav-link" href="#donations">Donations</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#footer">Contact</a>
+            <a class="nav-link" href="#contact">Contact</a>
         </li>        
       </ul>
+</div>
+</section>
+<div class="parallax"></div>
+
+<div class="container my-container">
