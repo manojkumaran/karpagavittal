@@ -1,7 +1,6 @@
 body{
     font-family: 'Metrophobic', sans-serif;
     color: #333333;
-    background-image: url("../images/bk.png");
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -180,3 +179,10 @@ h6{
     ul.newsticker span {
     margin: 0 10px 0 0;
     } 
+
+
+    @media only screen and  (min-width: 1280px) {
+        .parallax{
+            height: 500px;
+        }
+    }
