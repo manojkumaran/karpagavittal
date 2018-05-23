@@ -1,12 +1,14 @@
 <section id="donations" class="row">
         <div class="col-sm-12 col-md-8">
             <h2>Donations</h2>
-            <p>Devotees are requested to send their donations through bank cheque, in favour of to the temple office and obtain the receipts. Alternatively the donations
-                    can also be directly deposited in the following Bank account, through NEFT and provide the information to the temple office : 
+            <p>
+                    Devotees are requested to send their donations through bank cheque, in favour of to the temple office and obtain the receipts. Alternatively the donations can also be directly deposited in the following Bank account,through NEFT and provide the information to the temple office : 
             </p>
             <p>
             <blockquote class="blockquote"> 
-                <i>'Sri Karpaga Vinayagar Sri Pandurangan Aalaya Rajagopura Thiruppani' </i>(or in short 'SKVSPA Rajagopura Thiruppani)
+                <i>
+                    'Sri Karpaga Vinayagar Sri Pandurangan Aalaya Rajagopura Thiruppani' 
+                </i>(or in short 'SKVSPA Rajagopura Thiruppani)
              </blockquote>
             to the temple office and obtain the receipts. Alternatively the donations
                     can also be directly deposited in the our bank account, through NEFT and provide the information to the temple office.
